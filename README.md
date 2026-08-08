@@ -2,7 +2,7 @@
 
 <p align="left">BCA student learning Frontend Development</p>
 
-<p align="center"><img src="./assets/typing_effect_smil.svg" width="600" alt="typing animation" /></p>
+
 
 ## About me
 
