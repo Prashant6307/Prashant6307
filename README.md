@@ -2,12 +2,33 @@
 
 <p align="left">BCA student learning Frontend Development</p>
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg0bmFjOXhnYzEyNGM4Z25ud2NxMW83bnd5b3RycWszd2kyYzQ1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" />
+<svg align="right" width="400" viewBox="0 0 400 180" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Typing effect showing four lines appearing one after another, each staying visible in its own color</title>
+<desc>EAT MEOW, SLEEP MEOW, CODE MEOW, REPEAT are revealed left to right one below the other, staying on screen until the cycle resets, using native SVG animation.</desc>
+<defs>
+<clipPath id="cp1"><rect x="0" y="0" width="0" height="50"><animate attributeName="width" values="0;280;280;0" keyTimes="0;0.2;0.99;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="cp2"><rect x="0" y="0" width="0" height="50"><animate attributeName="width" values="0;0;380;380;0" keyTimes="0;0.24;0.44;0.99;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="cp3"><rect x="0" y="0" width="0" height="50"><animate attributeName="width" values="0;0;350;350;0" keyTimes="0;0.49;0.69;0.99;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="cp4"><rect x="0" y="0" width="0" height="50"><animate attributeName="width" values="0;0;220;220;0" keyTimes="0;0.74;0.94;0.99;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g transform="translate(80,30)" clip-path="url(#cp1)">
+<text x="0" y="30" font-family="Fira Code, monospace" font-weight="700" font-size="30" fill="#FF2FA0">EAT MEOW</text>
+</g>
+<g transform="translate(80,70)" clip-path="url(#cp2)">
+<text x="0" y="30" font-family="Fira Code, monospace" font-weight="700" font-size="30" fill="#2FD8FF">SLEEP MEOW</text>
+</g>
+<g transform="translate(80,110)" clip-path="url(#cp3)">
+<text x="0" y="30" font-family="Fira Code, monospace" font-weight="700" font-size="30" fill="#38FF7A">CODE MEOW</text>
+</g>
+<g transform="translate(80,150)" clip-path="url(#cp4)">
+<text x="0" y="30" font-family="Fira Code, monospace" font-weight="700" font-size="30" fill="#C17BFF">REPEAT</text>
+</g>
+</svg>
 
 ## About me
 
 <p align="left">
-I'm Prashant Kumar, a BCA student and Frontend Developer building modern, responsive, and user-friendly web applications using <b>React.js</b>, JavaScript, and modern frontend technologies. Currently improving my skills in advanced React concepts, state management, and frontend architecture.
+ Building modern, responsive, and user-friendly web applications using <b>React.js</b>, JavaScript, and modern frontend technologies. Currently improving my skills in advanced React concepts, state management, and frontend architecture.
 </p>
 
 ## I code with
