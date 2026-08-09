@@ -1,8 +1,6 @@
 <h1 align="left">Hello World!! 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=000&color=B716FF&background=00F1FF00&multiline=true&width=475&height=100&lines=EAT+MEOW;SLEEP+MEOW;CODE+MEOW;REPEAT" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=000&color=B716FF&weight=500&background=00F1FF00&multiline=true&width=475&height=100&lines=EAT+MEOW;SLEEP+MEOW;CODE+MEOW;REPEAT" alt="Typing SVG" /></a>
 
 ## About me
 
@@ -54,5 +52,9 @@ Building modern, responsive, and user-friendly web applications using <b>React.j
 </picture>
 
 ---
+
+<p align="center"> 
+<img  src="https://komarev.com/ghpvc/?username=Prashant6307&label=Profile+Views&color=ff2fa0&style=for-the-badge" alt="Profile views" />
+</p>
 
 ⭐️ Thanks for visiting my profile!
