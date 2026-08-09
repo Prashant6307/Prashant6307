@@ -1,13 +1,13 @@
 <h1 align="left">Hello World!! 👋</h1>
 
-<p align="left">BCA student learning Frontend Development</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=000&color=B716FF&background=00F1FF00&multiline=true&width=475&height=100&lines=EAT+MEOW;SLEEP+MEOW;CODE+MEOW;REPEAT" alt="Typing SVG" /></a>
 
 
 
 ## About me
 
 <p align="left">
- Building modern, responsive, and user-friendly web applications using <b>React.js</b>, JavaScript, and modern frontend technologies. Currently improving my skills in advanced React concepts, state management, and frontend architecture.
+Building modern, responsive, and user-friendly web applications using <b>React.js</b>, JavaScript, and modern frontend technologies. Currently improving my skills in advanced React concepts, state management, and frontend architecture.
 </p>
 
 ## I code with
